@@ -1,37 +1,38 @@
-   ### Hello World 👋
-    I am a fullstack software engineer from bangladesh
+Hey there! 👋
+I'm Hamza Abbas, a passionate Computer Engineering student at McMaster University with a keen interest in embedded systems, FPGA design, and cutting-edge technologies. My journey in engineering is fueled by curiosity and a drive to innovate and develop solutions that impact the future.
 
-    - 🔭 Working on multiple frontend and backend project using React and Nodejs
-    - 🌱 Learning design patterns in depth
-    <br>
+🔭 Currently working on FPGA-based projects and microcontroller programming.
+🌱 Deepening my understanding of digital design and circuit analysis.
+📚 Pursuing a Bachelor of Engineering in Computer Engineering, with a strong academic record and hands-on project experience.
+<br>
+Connect with Me
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-    ## Connect with me
+<img align="left" alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
-    [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/mohammad-faisal-2665b5134))
+<br>
+<br>
+My Expertise
+Languages: Python, C/C++, Verilog, VHDL, Assembly
+Circuitry Skills: Schematic Design, PCB Layout, Microcontroller Programming, Sensor Integration, FPGA Design
+Tools: Altium Designer, LTSpice, GitHub, Keil, Arduino
+<img align="left" alt="Verilog" src="https://img.shields.io/badge/verilog-%23F0DB4F.svg?&style=for-the-badge&logo=verilog&logoColor=black" />
+<img align="left" alt="VHDL" src="https://img.shields.io/badge/VHDL-%230076A8.svg?&style=for-the-badge&logo=VHDL&logoColor=white" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />
+<img align="left" alt="C/C++" src="https://img.shields.io/badge/C/C++-%232371E8.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white" />
+<br>
+<br>
+Recent Projects
+Automated 3D LiDAR Hallway Scanner: Developed a 3D LiDAR scanner using MSP432E401Y, integrating I2C and UART for precise indoor mapping.
+Pong on FPGA: Recreated the classic PONG game on an FPGA, implementing game logic in VHDL, and interfacing with VGA for display.
+3-bit Digital to Analog Converter: Designed a DAC using LTSpice, focusing on linearity and accurate voltage output through minimal components.
+Certifications
+Altium PCB Design Course: Gained practical knowledge in PCB design using Altium Designer, laying the foundation for advanced circuit design and manufacturing.
+Hobbies
+Playing Basketball
+Reading Comics
+Kayaking
+Spending time with friends
+<br>
+Feel free to check out my Notion Portfolio for more detailed insights into my projects and experiences. Let's connect and collaborate on exciting engineering projects!
 
-    [<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://56faisal.medium.com/](https://56faisal.medium.com/))
-
-    [<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/5379437/mohammad-faisal](https://stackoverflow.com/users/5379437/mohammad-faisal))
-
-    [<img align="left" alt="facebook" src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)" />]([https://www.facebook.com/56faisal/](https://www.facebook.com/56faisal/))
-
-    [<img align="left" alt="twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)" />]([https://twitter.com/Mohamma88766694](https://twitter.com/Mohamma88766694))
-
-    <br>
-    <br>
-
-    ## Expertise
-    <img align="left" alt="react" src="[https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
-
-    <img align="left" alt="nodejs" src="[https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
-
-    <img align="left" alt="aws" src="[https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)" />
-
-    <img align="left" alt="medium" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
-
-    <img align="left" alt="android" src="[https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)" />
-
-    <img align="left" alt="spring" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
-
-    <br>
-    <br>
