@@ -6,28 +6,40 @@ I'm Hamza Abbas, a passionate Computer Engineering student at McMaster Universit
 📚 Pursuing a Bachelor of Engineering in Computer Engineering, with a strong academic record and hands-on project experience.
 <br>
 Connect with Me
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<img align="left" alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
-<br>
 <br>
 My Expertise
-Languages: Python, C/C++, Verilog, VHDL, Assembly
-Circuitry Skills: Schematic Design, PCB Layout, Microcontroller Programming, Sensor Integration, FPGA Design
-Tools: Altium Designer, LTSpice, GitHub, Keil, Arduino
-<img align="left" alt="Verilog" src="https://img.shields.io/badge/verilog-%23F0DB4F.svg?&style=for-the-badge&logo=verilog&logoColor=black" />
-<img align="left" alt="VHDL" src="https://img.shields.io/badge/VHDL-%230076A8.svg?&style=for-the-badge&logo=VHDL&logoColor=white" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />
-<img align="left" alt="C/C++" src="https://img.shields.io/badge/C/C++-%232371E8.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white" />
+Languages:
+Python, C/C++, Verilog, VHDL, Assembly
+
+Circuitry Skills:
+Schematic Design, PCB Layout, Microcontroller Programming, Sensor Integration, FPGA Design
+
+Tools:
+Altium Designer, LTSpice, GitHub, Keil, Arduino
+
 <br>
+
+
+
+
 <br>
 Recent Projects
-Automated 3D LiDAR Hallway Scanner: Developed a 3D LiDAR scanner using MSP432E401Y, integrating I2C and UART for precise indoor mapping.
-Pong on FPGA: Recreated the classic PONG game on an FPGA, implementing game logic in VHDL, and interfacing with VGA for display.
-3-bit Digital to Analog Converter: Designed a DAC using LTSpice, focusing on linearity and accurate voltage output through minimal components.
+Automated 3D LiDAR Hallway Scanner:
+Developed a 3D LiDAR scanner using MSP432E401Y, integrating I2C and UART for precise indoor mapping.
+
+Pong on FPGA:
+Recreated the classic PONG game on an FPGA, implementing game logic in VHDL, and interfacing with VGA for display.
+
+3-bit Digital to Analog Converter:
+Designed a DAC using LTSpice, focusing on linearity and accurate voltage output through minimal components.
+
+<br>
 Certifications
-Altium PCB Design Course: Gained practical knowledge in PCB design using Altium Designer, laying the foundation for advanced circuit design and manufacturing.
+Altium PCB Design Course:
+Gained practical knowledge in PCB design using Altium Designer, laying the foundation for advanced circuit design and manufacturing.
+<br>
 Hobbies
 Playing Basketball
 Reading Comics
@@ -35,4 +47,3 @@ Kayaking
 Spending time with friends
 <br>
 Feel free to check out my Notion Portfolio for more detailed insights into my projects and experiences. Let's connect and collaborate on exciting engineering projects!
-
