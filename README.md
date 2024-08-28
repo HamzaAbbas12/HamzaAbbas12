@@ -2,8 +2,8 @@
 
 I'm Hamza Abbas, a passionate Computer Engineering student at McMaster University with a keen interest in embedded systems, FPGA design, and cutting-edge technologies. My journey in engineering is fueled by curiosity and a drive to innovate and develop solutions that impact the future.
 
-- 🔭 Currently working on FPGA-based projects and microcontroller programming.
-- 🌱 Deepening my understanding of digital design and circuit analysis.
+- 👨🏻‍💻 Currently working on FPGA-based projects and microcontroller programming.
+- ⚡ Deepening my understanding of digital design and circuit analysis.
 - 📚 Pursuing a Bachelor of Engineering in Computer Engineering, with a strong academic record and hands-on project experience.
 
 <br>
