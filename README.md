@@ -10,7 +10,7 @@ I'm Hamza Abbas, a passionate Computer Engineering student at McMaster Universit
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hamza-abbas5381](https://www.linkedin.com/in/hamza-abbas-83979525b))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abbas-83979525b)
 [![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hamza-Abbas-Portfolio)
 
 <br>
