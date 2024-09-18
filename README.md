@@ -24,7 +24,7 @@ C/C++, SystemVerilog, Verilog, VHDL, Assembly, Python
 Schematic Design, PCB Layout, Microcontroller Programming, Sensor Integration, FPGA Design  
 
 **Tools:**  
-Altium Designer, LTSpice, GitHub, Keil, Arduino
+Quartus, ModelSim, Matlab, Simulink, LTSpice, GitHub, Keil, Arduino, Altium Designer
 
 <br>
 
@@ -52,6 +52,8 @@ Altium Designer, LTSpice, GitHub, Keil, Arduino
 
 - **Altium PCB Design Course:**  
   Gained practical knowledge in PCB design using Altium Designer, laying the foundation for advanced circuit design and manufacturing.
+- **Simulink Onramp**  
+  Developed foundational skills in model-based design by simulating dynamic systems and control logic, culminating in projects like a temperature-controlled thermostat and a falcon dive simulation.
 
 <br>
 
