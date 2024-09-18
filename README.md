@@ -18,7 +18,7 @@ I'm Hamza Abbas, a passionate Computer Engineering student at McMaster Universit
 ## My Expertise
 
 **Languages:**  
-Python, C/C++, Verilog, VHDL, Assembly  
+C/C++, SystemVerilog, Verilog, VHDL, Assembly, Python
 
 **Circuitry Skills:**  
 Schematic Design, PCB Layout, Microcontroller Programming, Sensor Integration, FPGA Design  
