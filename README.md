@@ -56,7 +56,7 @@ Verdi, Spyglass, Tessent, Keil, Altium, Quartus Prime, LTSpice, IceCUBE2, ModelS
 
 ## Hobbies
 
-- Playing Basketball
+- Gym + Sports
 - Reading Comics
 - Kayaking
 - Spending time with friends
